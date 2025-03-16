@@ -25,7 +25,7 @@ export default function Header() {
       <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="text-2xl font-bold text-green-600">
-          Fundus<span className="text-gray-700">Crowd</span>
+          Cura<span className="text-gray-700">Chain</span>
         </Link>
 
         {/* Static Navigation */}
