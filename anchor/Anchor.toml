@@ -6,10 +6,10 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-fundus = "8tfuvG2FVPUE41keGjgybaftAiw9UQBK3FGtYxMyzJ5W"
+fundus = "3s7hbzyA8qoWWaU6JxiGT4htHhf592UtUgVK6aezYxMy"
 
 [programs.devnet]
-fundus = "8tfuvG2FVPUE41keGjgybaftAiw9UQBK3FGtYxMyzJ5W"
+fundus = "3s7hbzyA8qoWWaU6JxiGT4htHhf592UtUgVK6aezYxMy"
 
 [registry]
 url = "https://api.apr.dev"
